@@ -37,4 +37,5 @@
 **Ссылки на исходные датасеты:**
 - [Резюме соискателей](https://drive.google.com/file/d/1-8PMbhMvP_V569_0QzuUJAryXJcfRyvJ/view?usp=share_link)
 - [Курсы валют](https://drive.google.com/file/d/1K-ppQScoeK9xXyZV4K6Nio_q7F1VtrHC/view?usp=share_link)
-- 
+
+[Сохраненные графики Plotly](https://github.com/dariazvonareva/Project-1_HeadHunter.git/images)
