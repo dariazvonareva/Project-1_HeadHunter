@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.csv
+dst-3.0_16_1_hh_database.csv
+ExchangeRates.csv
+**/__pycache__/
+/*.csv/
+*.csv
+**/*.ipynb_checkpoints/
+**/__csv__/
 
 # C extensions
 *.so
