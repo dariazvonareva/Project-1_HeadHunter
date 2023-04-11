@@ -1,14 +1,14 @@
 # Анализ базы данных резюме с Head Hunter
 ## Оглавление
-[1. Описание проекта](https://github.com/dariazvonareva/Project-1_HeadHunter.git/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dariazvonareva/Project1_HeadHunter/blob/main/DATA/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/dariazvonareva/Project-1_HeadHunter.git/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/dariazvonareva/Project1_HeadHunter/blob/main/DATA/README.md#Какой-кейс-решаем)
 
-[3. Результаты](https://github.com/dariazvonareva/Project-1_HeadHunter.git/README.md#Результаты)
+[3. Результаты](https://github.com/dariazvonareva/Project1_HeadHunter/blob/main/DATA/README.md#Результаты)
 ### Описание проекта
 Провести обрабочу данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project-1_HeadHunter.git/README.md#Оглавление )
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project1_HeadHunter/blob/main/DATA/README.md#Оглавление )
 ### Какой кейс решаем?
 1. Базовый анализ структуры данных
 2. Преобразование данных
@@ -16,7 +16,7 @@
 4. Очистка данных
 **Условия соревнования:**
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/dariazvonareva/Project-1_HeadHunter.git/README.md#Требования-к-оформлению-ноутбука).
+- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/dariazvonareva/Project1_HeadHunter/blob/main/DATA/README.md#Требования-к-оформлению-ноутбука).
 
 **Требования к оформлению ноутбука**
 - Решение оформляется только в Jupyter Notebook.
@@ -32,7 +32,7 @@
 работу с данными и оформление отчетов с помощью средств руthon
 ### Результаты:
 [Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project-1_HeadHunter.git/Project_1_HeadHunter_df.ipynb)
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project-1_HeadHunter.git/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project1_HeadHunter/blob/main/DATA/README.md#Оглавление)
 
 **Ссылки на исходные датасеты:**
 - [Резюме соискателей](https://drive.google.com/file/d/1-8PMbhMvP_V569_0QzuUJAryXJcfRyvJ/view?usp=share_link)
