@@ -31,7 +31,7 @@
 **Что практикуем**
 работу с данными и оформление отчетов с помощью средств руthon
 ### Результаты:
-[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project-1_HeadHunter.git/Project_1_HeadHunter_df.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project1_HeadHunter/blob/main/DATA/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 :arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project1_HeadHunter/blob/main/DATA/README.md#Оглавление)
 
 **Ссылки на исходные датасеты:**
